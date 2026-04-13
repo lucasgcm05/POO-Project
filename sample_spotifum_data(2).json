@@ -1,0 +1,1909 @@
+{
+  "users": [
+    {
+      "name": "a",
+      "email": "a",
+      "address": "a",
+      "points": 105.0,
+      "plan": "PremiumTopPlan",
+      "history": [
+        {
+          "music": {
+            "name": "Lithium",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+            "music": "Grunge Rock",
+            "genre": "Grunge",
+            "duration": 203,
+            "isPlaying": true,
+            "views": 1396
+          },
+          "timestamp": "2025-05-17T12:18:11.465580074"
+        }
+      ]
+    },
+    {
+      "name": "LunaMonteiro",
+      "email": "luna@example.com",
+      "address": "Av. das Estrelas, 654",
+      "points": 152.01,
+      "plan": "FreePlan",
+      "history": []
+    },
+    {
+      "name": "RicardoAzevedo",
+      "email": "ricardo@example.com",
+      "address": "Travessa do Norte, 987",
+      "points": 51.23,
+      "plan": "PremiumBasePlan",
+      "history": []
+    },
+    {
+      "name": "AnaBaptista",
+      "email": "ana@example.com",
+      "address": "Rua Nova, 789",
+      "points": 125.3,
+      "plan": "PremiumTopPlan",
+      "history": [
+        {
+          "music": {
+            "name": "Try and Love Again",
+            "author": "Eagles",
+            "publisherName": "Asylum Records",
+            "lyrics": "You can try and love again...",
+            "music": "Classic Rock",
+            "genre": "Rock",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 4419
+          },
+          "timestamp": "2025-05-16T15:56:00.05764605"
+        },
+        {
+          "music": {
+            "name": "Life in the Fast Lane",
+            "author": "Eagles",
+            "publisherName": "Asylum Records",
+            "lyrics": "Life in the fast lane...",
+            "music": "Rock",
+            "genre": "Rock",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3114
+          },
+          "timestamp": "2025-05-16T15:56:05.001190668"
+        },
+        {
+          "music": {
+            "name": "Hotel California",
+            "author": "Eagles",
+            "publisherName": "Asylum Records",
+            "lyrics": "You can check out any time you like...",
+            "music": "Guitar, Drums, Vocals",
+            "genre": "Rock",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1603
+          },
+          "timestamp": "2025-05-16T15:56:07.089512137"
+        },
+        {
+          "music": {
+            "name": "Try and Love Again",
+            "author": "Eagles",
+            "publisherName": "Asylum Records",
+            "lyrics": "You can try and love again...",
+            "music": "Classic Rock",
+            "genre": "Rock",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 4419
+          },
+          "timestamp": "2025-05-16T15:56:08.076841644"
+        },
+        {
+          "music": {
+            "name": "Life in the Fast Lane",
+            "author": "Eagles",
+            "publisherName": "Asylum Records",
+            "lyrics": "Life in the fast lane...",
+            "music": "Rock",
+            "genre": "Rock",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3114
+          },
+          "timestamp": "2025-05-16T15:56:27.704661844"
+        }
+      ]
+    },
+    {
+      "name": "FilipeCosta",
+      "email": "filipe@example.com",
+      "address": "Rua do Sol, 321",
+      "points": 103.86,
+      "plan": "FreePlan",
+      "history": []
+    },
+    {
+      "name": "CarlotaGarcia",
+      "email": "carlota@example.com",
+      "address": "Largo do Sul, 741",
+      "points": 114.41,
+      "plan": "PremiumBasePlan",
+      "history": []
+    },
+    {
+      "name": "VioletaGaspar",
+      "email": "violeta@example.com",
+      "address": "Estrada Nova, 852",
+      "points": 129.31,
+      "plan": "FreePlan",
+      "history": []
+    },
+    {
+      "name": "GoncaloMarques",
+      "email": "goncalo@example.com",
+      "address": "Av. Central, 456",
+      "points": 206.85,
+      "plan": "PremiumTopPlan",
+      "history": []
+    },
+    {
+      "name": "ya",
+      "email": "ya",
+      "address": "ya",
+      "points": 15.0,
+      "plan": "FreePlan",
+      "history": [
+        {
+          "music": {
+            "name": "Life in the Fast Lane",
+            "author": "Eagles",
+            "publisherName": "Asylum Records",
+            "lyrics": "Life in the fast lane...",
+            "music": "Rock",
+            "genre": "Rock",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3112
+          },
+          "timestamp": "2025-05-16T05:01:14.947942265"
+        },
+        {
+          "music": {
+            "name": "Life in the Fast Lane",
+            "author": "Eagles",
+            "publisherName": "Asylum Records",
+            "lyrics": "Life in the fast lane...",
+            "music": "Rock",
+            "genre": "Rock",
+            "duration": 370,
+            "isPlaying": true,
+            "views": 3115
+          },
+          "timestamp": "2025-05-16T17:13:07.935339905"
+        },
+        {
+          "music": {
+            "name": "New Kid in Town",
+            "author": "Eagles",
+            "publisherName": "Asylum Records",
+            "lyrics": "There\u0027s a new kid in town...",
+            "music": "Guitar, Piano, Vocals",
+            "genre": "Soft Rock",
+            "duration": 200,
+            "isPlaying": true,
+            "views": 1553
+          },
+          "timestamp": "2025-05-16T17:13:11.314672138"
+        }
+      ]
+    },
+    {
+      "name": "cr7",
+      "email": "cr7",
+      "address": "cr7",
+      "points": 80.0,
+      "plan": "FreePlan",
+      "history": [
+        {
+          "music": {
+            "name": "Smells Like Teen Spirit",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Here we are now, entertain us!",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3484
+          },
+          "timestamp": "2025-05-16T16:40:25.846014003"
+        },
+        {
+          "music": {
+            "name": "Come As You Are",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Come as you are, as you were...",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1696
+          },
+          "timestamp": "2025-05-16T16:40:28.273126135"
+        },
+        {
+          "music": {
+            "name": "Lithium",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+            "music": "Grunge Rock",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1393
+          },
+          "timestamp": "2025-05-16T16:40:29.576219373"
+        },
+        {
+          "music": {
+            "name": "Breed",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+            "music": "Grunge",
+            "genre": "Grunge",
+            "duration": 120,
+            "isPlaying": true,
+            "views": 3263
+          },
+          "timestamp": "2025-05-16T21:12:47.229244388"
+        },
+        {
+          "music": {
+            "name": "Lithium",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+            "music": "Grunge Rock",
+            "genre": "Grunge",
+            "duration": 203,
+            "isPlaying": true,
+            "views": 1396
+          },
+          "timestamp": "2025-05-16T23:28:25.659804101"
+        },
+        {
+          "music": {
+            "name": "In Bloom",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "He\u0027s the one who likes all our pretty songs...",
+            "music": "Grunge Rock",
+            "genre": "Grunge",
+            "duration": 230,
+            "isPlaying": true,
+            "views": 4654
+          },
+          "timestamp": "2025-05-16T23:28:28.582351091"
+        },
+        {
+          "music": {
+            "name": "Try and Love Again",
+            "author": "Eagles",
+            "publisherName": "Asylum Records",
+            "lyrics": "You can try and love again...",
+            "music": "Classic Rock",
+            "genre": "Rock",
+            "duration": 200,
+            "isPlaying": true,
+            "views": 4420
+          },
+          "timestamp": "2025-05-16T23:28:29.367388822"
+        },
+        {
+          "music": {
+            "name": "Smells Like Teen Spirit",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Here we are now, entertain us!",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 200,
+            "isPlaying": true,
+            "views": 3489
+          },
+          "timestamp": "2025-05-16T23:28:30.030374349"
+        }
+      ]
+    },
+    {
+      "name": "Ju",
+      "email": "Ju",
+      "address": "Ju",
+      "points": 0.0,
+      "plan": "PremiumTopPlan",
+      "history": [
+        {
+          "music": {
+            "name": "Smells Like Teen Spirit",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Here we are now, entertain us!",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 200,
+            "isPlaying": true,
+            "views": 3489,
+            "videoLink": "youtube123.com"
+          },
+          "timestamp": "2025-05-17T16:01:23.826377154"
+        },
+        {
+          "music": {
+            "name": "Fortnight",
+            "author": "Taylor Swift",
+            "publisherName": "Taylor Swift",
+            "lyrics": "I was supposed to be sent away, but they forgot to come and get me...",
+            "music": "",
+            "genre": "pop",
+            "duration": 229,
+            "isPlaying": true,
+            "views": 3
+          },
+          "timestamp": "2025-05-17T16:04:12.639611855"
+        },
+        {
+          "music": {
+            "name": "Fortnight",
+            "author": "Taylor Swift",
+            "publisherName": "Taylor Swift",
+            "lyrics": "I was supposed to be sent away, but they forgot to come and get me...",
+            "music": "",
+            "genre": "pop",
+            "duration": 229,
+            "isPlaying": true,
+            "views": 3
+          },
+          "timestamp": "2025-05-17T16:04:21.752973161"
+        },
+        {
+          "music": {
+            "name": "Fortnight",
+            "author": "Taylor Swift",
+            "publisherName": "Taylor Swift",
+            "lyrics": "I was supposed to be sent away, but they forgot to come and get me...",
+            "music": "",
+            "genre": "pop",
+            "duration": 229,
+            "isPlaying": true,
+            "views": 3
+          },
+          "timestamp": "2025-05-17T16:04:26.630335968"
+        }
+      ]
+    },
+    {
+      "name": "TatianaCarvalho",
+      "email": "tatiana@example.com",
+      "address": "Rua das Flores, 123",
+      "points": 423.042948573908,
+      "plan": "PremiumTopPlan",
+      "history": [
+        {
+          "music": {
+            "name": "Smells Like Teen Spirit",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Here we are now, entertain us!",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3481
+          },
+          "timestamp": "2025-05-16T05:00:45.77231393"
+        },
+        {
+          "music": {
+            "name": "Come As You Are",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Come as you are, as you were...",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1692
+          },
+          "timestamp": "2025-05-16T05:00:47.811344838"
+        },
+        {
+          "music": {
+            "name": "Breed",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+            "music": "Grunge",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3261
+          },
+          "timestamp": "2025-05-16T15:57:05.250354643"
+        },
+        {
+          "music": {
+            "name": "Smells Like Teen Spirit",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Here we are now, entertain us!",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3483
+          },
+          "timestamp": "2025-05-16T15:57:08.012381235"
+        },
+        {
+          "music": {
+            "name": "Breed",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+            "music": "Grunge",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3261
+          },
+          "timestamp": "2025-05-16T15:57:09.509967846"
+        },
+        {
+          "music": {
+            "name": "Come As You Are",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Come as you are, as you were...",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1695
+          },
+          "timestamp": "2025-05-16T15:58:16.047415566"
+        },
+        {
+          "music": {
+            "name": "Lithium",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+            "music": "Grunge Rock",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1392
+          },
+          "timestamp": "2025-05-16T15:59:01.916413297"
+        },
+        {
+          "music": {
+            "name": "Come As You Are",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Come as you are, as you were...",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1695
+          },
+          "timestamp": "2025-05-16T16:22:11.027774481"
+        },
+        {
+          "music": {
+            "name": "Smells Like Teen Spirit",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Here we are now, entertain us!",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3485
+          },
+          "timestamp": "2025-05-16T16:45:26.939567862"
+        },
+        {
+          "music": {
+            "name": "Come As You Are",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Come as you are, as you were...",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1697
+          },
+          "timestamp": "2025-05-16T16:45:56.8261956"
+        },
+        {
+          "music": {
+            "name": "Lithium",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+            "music": "Grunge Rock",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1394
+          },
+          "timestamp": "2025-05-16T16:45:57.76375949"
+        },
+        {
+          "music": {
+            "name": "Smells Like Teen Spirit",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Here we are now, entertain us!",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3486
+          },
+          "timestamp": "2025-05-16T16:47:39.676833406"
+        },
+        {
+          "music": {
+            "name": "Come As You Are",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Come as you are, as you were...",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1698
+          },
+          "timestamp": "2025-05-16T16:47:41.461962471"
+        },
+        {
+          "music": {
+            "name": "Lithium",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+            "music": "Grunge Rock",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 1395
+          },
+          "timestamp": "2025-05-16T16:47:59.58821409"
+        },
+        {
+          "music": {
+            "name": "Smells Like Teen Spirit",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Here we are now, entertain us!",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3487
+          },
+          "timestamp": "2025-05-16T17:07:09.711401184"
+        },
+        {
+          "music": {
+            "name": "Polly",
+            "author": "Nirvana",
+            "publisherName": "Records",
+            "lyrics": "Polly want some crackers",
+            "music": "guitar, drums",
+            "genre": "Grunge",
+            "duration": 300,
+            "isPlaying": true,
+            "views": 1
+          },
+          "timestamp": "2025-05-16T17:07:13.294080403"
+        },
+        {
+          "music": {
+            "name": "Smells Like Teen Spirit",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "Here we are now, entertain us!",
+            "music": "Guitar, Bass, Drums",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3488
+          },
+          "timestamp": "2025-05-16T17:09:19.498693415"
+        },
+        {
+          "music": {
+            "name": "Breed",
+            "author": "Nirvana",
+            "publisherName": "DGC Records",
+            "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+            "music": "Grunge",
+            "genre": "Grunge",
+            "duration": 0,
+            "isPlaying": true,
+            "views": 3262
+          },
+          "timestamp": "2025-05-16T17:09:23.716309398"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 1
+          },
+          "timestamp": "2025-05-17T11:50:22.579225485"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 1
+          },
+          "timestamp": "2025-05-17T11:50:32.348635381"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 1
+          },
+          "timestamp": "2025-05-17T11:50:34.224349683"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 7
+          },
+          "timestamp": "2025-05-17T11:53:02.464119273"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 7
+          },
+          "timestamp": "2025-05-17T11:53:04.755221544"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 7
+          },
+          "timestamp": "2025-05-17T11:53:07.089196286"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 7
+          },
+          "timestamp": "2025-05-17T11:53:07.66906673"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 7
+          },
+          "timestamp": "2025-05-17T11:53:08.567563441"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 10
+          },
+          "timestamp": "2025-05-17T11:53:09.352016321"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 10
+          },
+          "timestamp": "2025-05-17T11:53:10.104336393"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 10
+          },
+          "timestamp": "2025-05-17T11:53:10.834454901"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 10
+          },
+          "timestamp": "2025-05-17T11:53:11.484232269"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 10
+          },
+          "timestamp": "2025-05-17T11:53:13.056827424"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 2
+          },
+          "timestamp": "2025-05-17T11:53:16.068598159"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 7
+          },
+          "timestamp": "2025-05-17T11:53:17.358049486"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 10
+          },
+          "timestamp": "2025-05-17T11:53:18.670829602"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 10
+          },
+          "timestamp": "2025-05-17T11:53:19.818402623"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 10
+          },
+          "timestamp": "2025-05-17T11:53:20.416183204"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 10
+          },
+          "timestamp": "2025-05-17T11:53:21.088440088"
+        },
+        {
+          "music": {
+            "name": "All Falls Down",
+            "author": "Kanye West",
+            "publisherName": "",
+            "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+            "music": "",
+            "genre": "hip-hop",
+            "duration": 223,
+            "isPlaying": true,
+            "views": 8
+          },
+          "timestamp": "2025-05-17T11:56:23.034904866"
+        }
+      ]
+    }
+  ],
+  "albums": [
+    {
+      "name": "Hotel California",
+      "author": "Eagles",
+      "year": 1976,
+      "musics": [
+        {
+          "name": "Hotel California",
+          "author": "Eagles",
+          "publisherName": "Asylum Records",
+          "lyrics": "You can check out any time you like...",
+          "music": "Guitar, Drums, Vocals",
+          "genre": "Rock",
+          "duration": 220,
+          "isPlaying": true,
+          "views": 1603
+        },
+        {
+          "name": "New Kid in Town",
+          "author": "Eagles",
+          "publisherName": "Asylum Records",
+          "lyrics": "There\u0027s a new kid in town...",
+          "music": "Guitar, Piano, Vocals",
+          "genre": "Soft Rock",
+          "duration": 200,
+          "isPlaying": true,
+          "views": 1553
+        },
+        {
+          "name": "Life in the Fast Lane",
+          "author": "Eagles",
+          "publisherName": "Asylum Records",
+          "lyrics": "Life in the fast lane...",
+          "music": "Rock",
+          "genre": "Rock",
+          "duration": 370,
+          "isPlaying": true,
+          "views": 3115
+        },
+        {
+          "name": "Wasted Time",
+          "author": "Eagles",
+          "publisherName": "Asylum Records",
+          "lyrics": "So you can get on with your search...",
+          "music": "Ballad",
+          "genre": "Rock",
+          "duration": 320,
+          "isPlaying": false,
+          "views": 829
+        },
+        {
+          "name": "Try and Love Again",
+          "author": "Eagles",
+          "publisherName": "Asylum Records",
+          "lyrics": "You can try and love again...",
+          "music": "Classic Rock",
+          "genre": "Rock",
+          "duration": 200,
+          "isPlaying": true,
+          "views": 4419
+        }
+      ],
+      "currentIndex": 0,
+      "currentMusic": {
+        "name": "Hotel California",
+        "author": "Eagles",
+        "publisherName": "Asylum Records",
+        "lyrics": "You can check out any time you like...",
+        "music": "Guitar, Drums, Vocals",
+        "genre": "Rock",
+        "duration": 220,
+        "isPlaying": true,
+        "views": 1603
+      },
+      "isShuffle": false
+    },
+    {
+      "name": "TTPD",
+      "author": "Taylor Swift",
+      "year": 2024,
+      "musics": [
+        {
+          "name": "Fortnight",
+          "author": "Taylor Swift",
+          "publisherName": "Taylor Swift",
+          "lyrics": "I was supposed to be sent away, but they forgot to come and get me...",
+          "music": "",
+          "genre": "pop",
+          "duration": 229,
+          "isPlaying": true,
+          "views": 3
+        }
+      ],
+      "currentIndex": 0,
+      "currentMusic": {
+        "name": "Fortnight",
+        "author": "Taylor Swift",
+        "publisherName": "Taylor Swift",
+        "lyrics": "I was supposed to be sent away, but they forgot to come and get me...",
+        "music": "",
+        "genre": "pop",
+        "duration": 229,
+        "isPlaying": true,
+        "views": 3
+      },
+      "isShuffle": false
+    },
+    {
+      "name": "Nevermind",
+      "author": "Nirvana",
+      "year": 1991,
+      "musics": [
+        {
+          "name": "Smells Like Teen Spirit",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "Here we are now, entertain us!",
+          "music": "Guitar, Bass, Drums",
+          "genre": "Grunge",
+          "duration": 200,
+          "isPlaying": true,
+          "views": 3489,
+          "videoLink": "youtube123.com"
+        },
+        {
+          "name": "Come As You Are",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "Come as you are, as you were...",
+          "music": "Guitar, Bass, Drums",
+          "genre": "Grunge",
+          "duration": 308,
+          "isPlaying": true,
+          "views": 1698,
+          "videoLink": "youtube1234.com"
+        },
+        {
+          "name": "Lithium",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+          "music": "Grunge Rock",
+          "genre": "Grunge",
+          "duration": 203,
+          "isPlaying": true,
+          "views": 1395
+        },
+        {
+          "name": "In Bloom",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "He\u0027s the one who likes all our pretty songs...",
+          "music": "Grunge Rock",
+          "genre": "Grunge",
+          "duration": 230,
+          "isPlaying": true,
+          "views": 4653
+        },
+        {
+          "name": "Breed",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+          "music": "Grunge",
+          "genre": "Grunge",
+          "duration": 120,
+          "isPlaying": true,
+          "views": 3262
+        }
+      ],
+      "currentIndex": 0,
+      "currentMusic": {
+        "name": "Smells Like Teen Spirit",
+        "author": "Nirvana",
+        "publisherName": "DGC Records",
+        "lyrics": "Here we are now, entertain us!",
+        "music": "Guitar, Bass, Drums",
+        "genre": "Grunge",
+        "duration": 200,
+        "isPlaying": true,
+        "views": 3489,
+        "videoLink": "youtube123.com"
+      },
+      "isShuffle": false
+    },
+    {
+      "name": "The College Dropout",
+      "author": "Kanye West",
+      "year": 2004,
+      "musics": [
+        {
+          "name": "All Falls Down",
+          "author": "Kanye West",
+          "publisherName": "",
+          "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+          "music": "",
+          "genre": "hip-hop",
+          "duration": 223,
+          "isPlaying": false,
+          "views": 0
+        }
+      ],
+      "currentIndex": 0,
+      "currentMusic": {
+        "name": "All Falls Down",
+        "author": "Kanye West",
+        "publisherName": "",
+        "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+        "music": "",
+        "genre": "hip-hop",
+        "duration": 223,
+        "isPlaying": false,
+        "views": 0
+      },
+      "isShuffle": false
+    }
+  ],
+  "playlists": [
+    {
+      "musics": [
+        {
+          "name": "Lithium",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+          "music": "Grunge Rock",
+          "genre": "Grunge",
+          "duration": 203,
+          "isPlaying": true,
+          "views": 1396
+        },
+        {
+          "name": "In Bloom",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "He\u0027s the one who likes all our pretty songs...",
+          "music": "Grunge Rock",
+          "genre": "Grunge",
+          "duration": 230,
+          "isPlaying": true,
+          "views": 4654
+        },
+        {
+          "name": "Try and Love Again",
+          "author": "Eagles",
+          "publisherName": "Asylum Records",
+          "lyrics": "You can try and love again...",
+          "music": "Classic Rock",
+          "genre": "Rock",
+          "duration": 200,
+          "isPlaying": true,
+          "views": 4420
+        },
+        {
+          "name": "Smells Like Teen Spirit",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "Here we are now, entertain us!",
+          "music": "Guitar, Bass, Drums",
+          "genre": "Grunge",
+          "duration": 200,
+          "isPlaying": true,
+          "views": 3489
+        }
+      ],
+      "name": "cr7play",
+      "owner": {
+        "name": "cr7",
+        "email": "cr7",
+        "address": "cr7",
+        "points": 80.0,
+        "plan": "PremiumBasePlan",
+        "history": [
+          {
+            "music": {
+              "name": "Smells Like Teen Spirit",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Here we are now, entertain us!",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3484
+            },
+            "timestamp": "2025-05-16T16:40:25.846014003"
+          },
+          {
+            "music": {
+              "name": "Come As You Are",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Come as you are, as you were...",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1696
+            },
+            "timestamp": "2025-05-16T16:40:28.273126135"
+          },
+          {
+            "music": {
+              "name": "Lithium",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+              "music": "Grunge Rock",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1393
+            },
+            "timestamp": "2025-05-16T16:40:29.576219373"
+          },
+          {
+            "music": {
+              "name": "Breed",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+              "music": "Grunge",
+              "genre": "Grunge",
+              "duration": 120,
+              "isPlaying": true,
+              "views": 3263
+            },
+            "timestamp": "2025-05-16T21:12:47.229244388"
+          },
+          {
+            "music": {
+              "name": "Lithium",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+              "music": "Grunge Rock",
+              "genre": "Grunge",
+              "duration": 203,
+              "isPlaying": true,
+              "views": 1396
+            },
+            "timestamp": "2025-05-16T23:28:25.659804101"
+          },
+          {
+            "music": {
+              "name": "In Bloom",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "He\u0027s the one who likes all our pretty songs...",
+              "music": "Grunge Rock",
+              "genre": "Grunge",
+              "duration": 230,
+              "isPlaying": true,
+              "views": 4654
+            },
+            "timestamp": "2025-05-16T23:28:28.582351091"
+          },
+          {
+            "music": {
+              "name": "Try and Love Again",
+              "author": "Eagles",
+              "publisherName": "Asylum Records",
+              "lyrics": "You can try and love again...",
+              "music": "Classic Rock",
+              "genre": "Rock",
+              "duration": 200,
+              "isPlaying": true,
+              "views": 4420
+            },
+            "timestamp": "2025-05-16T23:28:29.367388822"
+          },
+          {
+            "music": {
+              "name": "Smells Like Teen Spirit",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Here we are now, entertain us!",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 200,
+              "isPlaying": true,
+              "views": 3489
+            },
+            "timestamp": "2025-05-16T23:28:30.030374349"
+          }
+        ]
+      },
+      "isPaused": true,
+      "isPrivate": false,
+      "currentIndex": 0,
+      "currentMusic": {
+        "name": "Lithium",
+        "author": "Nirvana",
+        "publisherName": "DGC Records",
+        "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+        "music": "Grunge Rock",
+        "genre": "Grunge",
+        "duration": 203,
+        "isPlaying": true,
+        "views": 1396
+      },
+      "isShuffle": false,
+      "type": "UserCreatedPlaylist"
+    },
+    {
+      "musics": [
+        {
+          "name": "All Falls Down",
+          "author": "Kanye West",
+          "publisherName": "",
+          "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+          "music": "",
+          "genre": "hip-hop",
+          "duration": 223,
+          "isPlaying": false,
+          "views": 0
+        }
+      ],
+      "name": "TTPD",
+      "owner": {
+        "name": "Ju",
+        "email": "Ju",
+        "address": "Ju",
+        "points": 0.0,
+        "plan": "PremiumTopPlan",
+        "history": [
+          {
+            "music": {
+              "name": "Smells Like Teen Spirit",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Here we are now, entertain us!",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 200,
+              "isPlaying": true,
+              "views": 3489,
+              "videoLink": "youtube123.com"
+            },
+            "timestamp": "2025-05-17T16:01:23.826377154"
+          },
+          {
+            "music": {
+              "name": "Fortnight",
+              "author": "Taylor Swift",
+              "publisherName": "Taylor Swift",
+              "lyrics": "I was supposed to be sent away, but they forgot to come and get me...",
+              "music": "",
+              "genre": "pop",
+              "duration": 229,
+              "isPlaying": true,
+              "views": 3
+            },
+            "timestamp": "2025-05-17T16:04:12.639611855"
+          },
+          {
+            "music": {
+              "name": "Fortnight",
+              "author": "Taylor Swift",
+              "publisherName": "Taylor Swift",
+              "lyrics": "I was supposed to be sent away, but they forgot to come and get me...",
+              "music": "",
+              "genre": "pop",
+              "duration": 229,
+              "isPlaying": true,
+              "views": 3
+            },
+            "timestamp": "2025-05-17T16:04:21.752973161"
+          },
+          {
+            "music": {
+              "name": "Fortnight",
+              "author": "Taylor Swift",
+              "publisherName": "Taylor Swift",
+              "lyrics": "I was supposed to be sent away, but they forgot to come and get me...",
+              "music": "",
+              "genre": "pop",
+              "duration": 229,
+              "isPlaying": true,
+              "views": 3
+            },
+            "timestamp": "2025-05-17T16:04:26.630335968"
+          }
+        ]
+      },
+      "isPaused": true,
+      "isPrivate": true,
+      "currentIndex": 0,
+      "currentMusic": {
+        "name": "All Falls Down",
+        "author": "Kanye West",
+        "publisherName": "",
+        "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+        "music": "",
+        "genre": "hip-hop",
+        "duration": 223,
+        "isPlaying": false,
+        "views": 0
+      },
+      "isShuffle": false,
+      "type": "UserCreatedPlaylist"
+    },
+    {
+      "musics": [
+        {
+          "name": "All Falls Down",
+          "author": "Kanye West",
+          "publisherName": "",
+          "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+          "music": "",
+          "genre": "hip-hop",
+          "duration": 223,
+          "isPlaying": true,
+          "views": 8
+        },
+        {
+          "name": "All Falls Down",
+          "author": "Kanye West",
+          "publisherName": "",
+          "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+          "music": "",
+          "genre": "hip-hop",
+          "duration": 223,
+          "isPlaying": true,
+          "views": 10
+        },
+        {
+          "name": "All Falls Down",
+          "author": "Kanye West",
+          "publisherName": "",
+          "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+          "music": "",
+          "genre": "hip-hop",
+          "duration": 223,
+          "isPlaying": true,
+          "views": 2
+        }
+      ],
+      "name": "A melhor Playlist",
+      "owner": {
+        "name": "TatianaCarvalho",
+        "email": "tatiana@example.com",
+        "address": "Rua das Flores, 123",
+        "points": 278.02173473303003,
+        "plan": "PremiumTopPlan",
+        "history": [
+          {
+            "music": {
+              "name": "Smells Like Teen Spirit",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Here we are now, entertain us!",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3481
+            },
+            "timestamp": "2025-05-16T05:00:45.77231393"
+          },
+          {
+            "music": {
+              "name": "Come As You Are",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Come as you are, as you were...",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1692
+            },
+            "timestamp": "2025-05-16T05:00:47.811344838"
+          },
+          {
+            "music": {
+              "name": "Breed",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+              "music": "Grunge",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3261
+            },
+            "timestamp": "2025-05-16T15:57:05.250354643"
+          },
+          {
+            "music": {
+              "name": "Smells Like Teen Spirit",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Here we are now, entertain us!",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3483
+            },
+            "timestamp": "2025-05-16T15:57:08.012381235"
+          },
+          {
+            "music": {
+              "name": "Breed",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+              "music": "Grunge",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3261
+            },
+            "timestamp": "2025-05-16T15:57:09.509967846"
+          },
+          {
+            "music": {
+              "name": "Come As You Are",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Come as you are, as you were...",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1695
+            },
+            "timestamp": "2025-05-16T15:58:16.047415566"
+          },
+          {
+            "music": {
+              "name": "Lithium",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+              "music": "Grunge Rock",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1392
+            },
+            "timestamp": "2025-05-16T15:59:01.916413297"
+          },
+          {
+            "music": {
+              "name": "Come As You Are",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Come as you are, as you were...",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1695
+            },
+            "timestamp": "2025-05-16T16:22:11.027774481"
+          },
+          {
+            "music": {
+              "name": "Smells Like Teen Spirit",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Here we are now, entertain us!",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3485
+            },
+            "timestamp": "2025-05-16T16:45:26.939567862"
+          },
+          {
+            "music": {
+              "name": "Come As You Are",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Come as you are, as you were...",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1697
+            },
+            "timestamp": "2025-05-16T16:45:56.8261956"
+          },
+          {
+            "music": {
+              "name": "Lithium",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+              "music": "Grunge Rock",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1394
+            },
+            "timestamp": "2025-05-16T16:45:57.76375949"
+          },
+          {
+            "music": {
+              "name": "Smells Like Teen Spirit",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Here we are now, entertain us!",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3486
+            },
+            "timestamp": "2025-05-16T16:47:39.676833406"
+          },
+          {
+            "music": {
+              "name": "Come As You Are",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Come as you are, as you were...",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1698
+            },
+            "timestamp": "2025-05-16T16:47:41.461962471"
+          },
+          {
+            "music": {
+              "name": "Lithium",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+              "music": "Grunge Rock",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1395
+            },
+            "timestamp": "2025-05-16T16:47:59.58821409"
+          },
+          {
+            "music": {
+              "name": "Smells Like Teen Spirit",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Here we are now, entertain us!",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3487
+            },
+            "timestamp": "2025-05-16T17:07:09.711401184"
+          },
+          {
+            "music": {
+              "name": "Polly",
+              "author": "Nirvana",
+              "publisherName": "Records",
+              "lyrics": "Polly want some crackers",
+              "music": "guitar, drums",
+              "genre": "Grunge",
+              "duration": 300,
+              "isPlaying": true,
+              "views": 1
+            },
+            "timestamp": "2025-05-16T17:07:13.294080403"
+          },
+          {
+            "music": {
+              "name": "Smells Like Teen Spirit",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Here we are now, entertain us!",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3488
+            },
+            "timestamp": "2025-05-16T17:09:19.498693415"
+          },
+          {
+            "music": {
+              "name": "Breed",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+              "music": "Grunge",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3262
+            },
+            "timestamp": "2025-05-16T17:09:23.716309398"
+          },
+          {
+            "music": {
+              "name": "All Falls Down",
+              "author": "Kanye West",
+              "publisherName": "",
+              "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+              "music": "",
+              "genre": "hip-hop",
+              "duration": 223,
+              "isPlaying": true,
+              "views": 1
+            },
+            "timestamp": "2025-05-17T11:50:22.579225485"
+          },
+          {
+            "music": {
+              "name": "All Falls Down",
+              "author": "Kanye West",
+              "publisherName": "",
+              "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+              "music": "",
+              "genre": "hip-hop",
+              "duration": 223,
+              "isPlaying": true,
+              "views": 1
+            },
+            "timestamp": "2025-05-17T11:50:32.348635381"
+          },
+          {
+            "music": {
+              "name": "All Falls Down",
+              "author": "Kanye West",
+              "publisherName": "",
+              "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+              "music": "",
+              "genre": "hip-hop",
+              "duration": 223,
+              "isPlaying": true,
+              "views": 1
+            },
+            "timestamp": "2025-05-17T11:50:34.224349683"
+          }
+        ]
+      },
+      "isPaused": true,
+      "isPrivate": true,
+      "currentIndex": 0,
+      "currentMusic": {
+        "name": "All Falls Down",
+        "author": "Kanye West",
+        "publisherName": "",
+        "lyrics": "Oh, when it all (yeah), it all falls down (this the real one, baby)...",
+        "music": "",
+        "genre": "hip-hop",
+        "duration": 223,
+        "isPlaying": true,
+        "views": 8
+      },
+      "isShuffle": false,
+      "type": "UserCreatedPlaylist"
+    },
+    {
+      "musics": [
+        {
+          "name": "Breed",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+          "music": "Grunge",
+          "genre": "Grunge",
+          "duration": 120,
+          "isPlaying": true,
+          "views": 3263
+        },
+        {
+          "name": "Hotel California",
+          "author": "Eagles",
+          "publisherName": "Asylum Records",
+          "lyrics": "You can check out any time you like...",
+          "music": "Guitar, Drums, Vocals",
+          "genre": "Rock",
+          "duration": 220,
+          "isPlaying": true,
+          "views": 1603
+        },
+        {
+          "name": "In Bloom",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "He\u0027s the one who likes all our pretty songs...",
+          "music": "Grunge Rock",
+          "genre": "Grunge",
+          "duration": 230,
+          "isPlaying": true,
+          "views": 4653
+        },
+        {
+          "name": "Smells Like Teen Spirit",
+          "author": "Nirvana",
+          "publisherName": "DGC Records",
+          "lyrics": "Here we are now, entertain us!",
+          "music": "Guitar, Bass, Drums",
+          "genre": "Grunge",
+          "duration": 200,
+          "isPlaying": true,
+          "views": 3488
+        }
+      ],
+      "name": "cr7list",
+      "owner": {
+        "name": "cr7",
+        "email": "cr7",
+        "address": "cr7",
+        "points": 30.0,
+        "plan": "PremiumBasePlan",
+        "history": [
+          {
+            "music": {
+              "name": "Smells Like Teen Spirit",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Here we are now, entertain us!",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 3484
+            },
+            "timestamp": "2025-05-16T16:40:25.846014003"
+          },
+          {
+            "music": {
+              "name": "Come As You Are",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "Come as you are, as you were...",
+              "music": "Guitar, Bass, Drums",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1696
+            },
+            "timestamp": "2025-05-16T16:40:28.273126135"
+          },
+          {
+            "music": {
+              "name": "Lithium",
+              "author": "Nirvana",
+              "publisherName": "DGC Records",
+              "lyrics": "I\u0027m so happy, \u0027cause today I found my friends...",
+              "music": "Grunge Rock",
+              "genre": "Grunge",
+              "duration": 0,
+              "isPlaying": true,
+              "views": 1393
+            },
+            "timestamp": "2025-05-16T16:40:29.576219373"
+          }
+        ]
+      },
+      "isPaused": true,
+      "isPrivate": false,
+      "currentIndex": 0,
+      "currentMusic": {
+        "name": "Breed",
+        "author": "Nirvana",
+        "publisherName": "DGC Records",
+        "lyrics": "I don\u0027t care, I don\u0027t care, I don\u0027t care...",
+        "music": "Grunge",
+        "genre": "Grunge",
+        "duration": 120,
+        "isPlaying": true,
+        "views": 3263
+      },
+      "isShuffle": false,
+      "type": "UserCreatedPlaylist"
+    }
+  ]
+}
